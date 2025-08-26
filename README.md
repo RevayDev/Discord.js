@@ -16,7 +16,7 @@
 ## Instalacion
   1. Deberás clonar este repositorio. (Lo siguiente es hacerlo desde tu terminal de Git.)
    ```Bash
-   git clone https://github.com/Revay3d/Discord.js.git
+   git clone https://github.com/RevayDev/Discord.js.git
    ```
    ¿No tienes Git? https://git-scm.com/
   

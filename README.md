@@ -1,5 +1,5 @@
 ## Bot de discord js 🤖
- Este codigo basico pero muy bien detallado y facil de usar es para los usuarios que quieren un bot propio o no saben hacer un, como yo, este codigo es publico y pueden ayudar a que sea mas completo
+ Este codigo basico pero muy bien detallado y facil de usar es para los usuarios que quieren un bot propio o no saben hacer uno, como yo, este codigo es publico y pueden ayudar a que sea mas completo
 
 >[!IMPORTANT]
 >Este codigo tiene una licensia ``MIT``
@@ -44,11 +44,11 @@
 >Debes activar la opcion de desarrollador para hacer lo siguiente.
 
 2. configurar el ``.env``
-   > Remplasa ``ID_BOT`` con el id de tu bot y ``ID_SERVER`` con el id del servidor donde esta el bot.
+   > Remplasa ``TU_TOKEN`` con el token de tu bot, ``ID_BOT`` con el id del bot y  ``ID_SERVER`` con el id del servidor donde esta el bot.
  ```.env
-    clientId="ID_BOT"
-    guildId= "ID_SERVER"
-
+   token = TU_TOKEN
+   clientId = ID_BOT
+   guildId = ID_SERVER
  ```
 
 >[!CAUTION]

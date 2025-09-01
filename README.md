@@ -1,4 +1,4 @@
-## Bot de discord js 🤖
+# 🟡 Discord js 
  Este codigo basico pero muy bien detallado y facil de usar es para los usuarios que quieren un bot propio o no saben hacer uno, como yo, este codigo es publico y pueden ayudar a que sea mas completo
 
 >[!IMPORTANT]
@@ -13,7 +13,7 @@
   
 </p>
 
-## Instalacion
+## 💾 Instalacion
   1. Deberás clonar este repositorio. (Lo siguiente es hacerlo desde tu terminal de Git.)
    ```Bash
    git clone https://github.com/RevayDev/Discord.js.git
@@ -23,8 +23,10 @@
   2. Debes instalar Node.js para usar este proyecto
      > Link: https://nodejs.org/en
 
-## Personalización
-⚠ Por favor, sigue los siguientes pasos para configurar el bot y evitar cualquier error. Los pasos estarán detallados minuciosamente para aquellas personas que puedan tener dificultades para entender o asimilar la información. 😊
+## 🎨 Personalización
+>[!WARNING]
+> Por favor, sigue los siguientes pasos para configurar el bot y evitar cualquier error. Los pasos estarán detallados minuciosamente para aquellas personas que puedan tener dificultades para entender o  asimilar la información. 😊
+
 >[!NOTE]
 >Deveras instalar los modulos de Node.js.
 >```Bash
